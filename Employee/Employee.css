@@ -1,0 +1,7 @@
+.child{
+    border: 1px solid green;
+    background-color: green;
+    height: 300px;
+    width: 350px;
+    margin-left: 5%;
+}
